@@ -11,5 +11,5 @@ text-decoration: none;
 color: #fff;
 background-color: #4CAF50;
 border: none;
-border-radius: 15px;
+border-radius: 20px;
 `;
